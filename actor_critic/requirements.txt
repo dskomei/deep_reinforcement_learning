@@ -1,0 +1,6 @@
+pathlib
+numpy==1.21.4
+pandas==1.2.4
+gym==0.20.0
+torch==1.8.0
+seaborn==0.11.1
