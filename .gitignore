@@ -1,1 +1,7 @@
 .DS_Store
+*.pth
+*.csv
+*.png
+*.pyc
+*.h5
+*.mp4
